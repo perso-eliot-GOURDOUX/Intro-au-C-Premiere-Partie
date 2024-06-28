@@ -5,6 +5,15 @@ Objectif du Cours
 
 Le but de ce cours est de vous donner une compréhension fondamentale du C++ et de ses principales fonctionnalités. À la fin de ce cours, vous devriez être capable d'écrire des programmes simples en C++ en utilisant des concepts tels que les variables, les types de données, les opérations arithmétiques, les structures de contrôle, les boucles, les fonctions, les tableaux, les pointeurs, les structures et la programmation orientée objet.
 Exercices
+
+lancer le scrypt start_project.sh pour créer les fichiers de base pour chaque exercice ainsi que le Makefile.
+
+```bash
+bash start_project.sh
+```
+
+Utilisé make pour compiler tous les exercices et les lancers, utiliser make ex1 pour compiler et lancer l'exercice 1, make ex2 pour l'exercice 2, etc. Utilisé make clean pour supprimer les fichiers compilés.
+
 ### Exercice 1 : Bonjour le Monde
 
 __Objectif__ : Apprendre à écrire et exécuter un programme simple en C++.
